@@ -87,4 +87,23 @@ header nav a:hover{
 .botao i{
     margin-right: 8px;
 }
+
+.container{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
 /* Filme Principal */
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+/*
+# WRAPPER = ENVELOPAR LEMBRAR DE ESTUDAR MAIS AFUNDO!
+*/
